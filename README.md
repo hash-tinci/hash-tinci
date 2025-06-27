@@ -1,7 +1,7 @@
 <h1 align="center">🚀 My Competitive Programming Journey</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Solving+the+CSES+Problem+Set;Writing+clean+and+efficient+code;Focused+on+CP+and+Growth!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=480&lines=Bugs+fear+me+%F0%9F%91%BA;I+don%27t+write+code,+I+write+history.;Solving+CSES+like+it%27s+Tic-Tac-Toe;While+loops+run+from+me.;Stack+Overflow+checks+my+profile
 </p>
 
 ---
