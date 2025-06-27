@@ -1,7 +1,7 @@
 <h1 align="center">🚀 My Competitive Programming Journey</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=480&lines=Bugs+fear+me;I+don%27t+write+code,+I+write+history!;Solving+CSES+like+it%27s+Tic-Tac-Toe..;Stack-Overflow+checks+my+profile..;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=480&lines=Let+bugs+fear;I+don%27t+write+code,+I+write+history!;Solving+CSES+like+it%27s+Tic-Tac-Toe.;Stack-Overflow+checks+my+profile.;" />
 
 </p>
 
@@ -23,7 +23,7 @@
 ### 📊 My CP Progress (Auto-Generated Charts)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hash-tinci&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.api.novaapp.dev?user=hash-tinci&theme=tokyonight" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=hash-tinci&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
 </p>
