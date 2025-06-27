@@ -23,7 +23,7 @@
 ### 📊 My CP Progress (Auto-Generated Charts)
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hash-tinci" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_title=true" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=hash-tinci&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
 </p>
