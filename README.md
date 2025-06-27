@@ -23,8 +23,6 @@
 ### 📊 My CP Progress (Auto-Generated Charts)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hash-tinci&show_icons=true&theme=tokyonight&hide_title=true" />
-  <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-tinci&layout=compact&theme=tokyonight" />
     <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=hash-tinci&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
